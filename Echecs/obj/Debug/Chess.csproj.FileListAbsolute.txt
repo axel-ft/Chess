@@ -1,0 +1,7 @@
+c:\users\axel\source\repos\Echecs\Echecs\bin\Debug\Echecs.exe.config
+c:\users\axel\source\repos\Echecs\Echecs\bin\Debug\Echecs.exe
+c:\users\axel\source\repos\Echecs\Echecs\bin\Debug\Echecs.pdb
+c:\users\axel\source\repos\Echecs\Echecs\obj\Debug\Chess.csprojResolveAssemblyReference.cache
+c:\users\axel\source\repos\Echecs\Echecs\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+c:\users\axel\source\repos\Echecs\Echecs\obj\Debug\Echecs.exe
+c:\users\axel\source\repos\Echecs\Echecs\obj\Debug\Echecs.pdb

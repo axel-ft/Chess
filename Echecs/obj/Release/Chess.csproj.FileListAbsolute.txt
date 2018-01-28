@@ -1,0 +1,6 @@
+C:\Users\Axel\source\repos\Echecs\Echecs\bin\Release\Echecs.exe.config
+C:\Users\Axel\source\repos\Echecs\Echecs\bin\Release\Echecs.exe
+C:\Users\Axel\source\repos\Echecs\Echecs\bin\Release\Echecs.pdb
+C:\Users\Axel\source\repos\Echecs\Echecs\obj\Release\Chess.csproj.CoreCompileInputs.cache
+C:\Users\Axel\source\repos\Echecs\Echecs\obj\Release\Echecs.exe
+C:\Users\Axel\source\repos\Echecs\Echecs\obj\Release\Echecs.pdb
